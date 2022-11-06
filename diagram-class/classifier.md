@@ -31,3 +31,7 @@
 
 
 ![](/assets/diagram-class/qualifiedAssociation.png)
+
+[<<Предыдущая страница](/diagram-class/relationshipsClasses.md)
+[Содержание](/diagram-class/README.md)
+[Следующая страница>>](/diagram-class/classAssociation.md)

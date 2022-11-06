@@ -16,3 +16,7 @@
 
 ![](/assets/diagram-class/comment.png)
 <br/><br/>
+
+[<<Предыдущая страница](/diagram-class/purposeDiagramClass.md)
+[Содержание](/diagram-class/README.md)
+[Следующая страница>>](/diagram-class/class.md)
