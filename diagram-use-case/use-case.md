@@ -29,3 +29,7 @@
 ## Примеры использования
 
 ![](/assets/diagram-use-case/use-case-use-example.png)
+
+[Следующая страница ( граница системы )](./boundary.md)</br>
+[На главную](./README.md)</br>
+[Предыдущая страница ( актор )](./actor.md)</br>

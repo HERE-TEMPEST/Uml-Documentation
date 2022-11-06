@@ -27,3 +27,7 @@
 ## Примеры использования
 
 ![](/assets/diagram-use-case/comment-use-example.png)
+
+[Следующая страница ( виды отношений )](./relationships.md)</br>
+[На главную](./README.md)</br>
+[Предыдущая страница ( граница системы )](./boundary.md)</br>
